@@ -15,5 +15,22 @@ Tee Githubiin uusi reposity ja asenna sinne myös README ja GNU3 -tiedostot
     $ git commit -m "tein ohjetta eteenpäin" //päivittää lokin.  
     $ git push //lähettää päivitetyn tiedoston reposityyn.  
 
+En saanut git pushia toimimaan. Tämä vaati uuden tokenin lisäämisen Githubin kautta.  
+1. Settings
+2. Vasemmalta täysin alimpana Developer settings
+3. Personal Access tokens >> classic
+4. Generate new token
+5. valitse Classic
+6. oikeudeksi "repo"
+7. Generate token (ota talteen ja kopio Salasanan kohdalle gitiin kun pyytää salasanaa)
+
+<img width="831" height="344" alt="Näyttökuva 2026-11-22 215715" src="https://github.com/user-attachments/assets/c40cc66a-a721-4e01-b573-943eaad01714" />  
+
+<img width="391" height="115" alt="Näyttökuva 2026-11-22 221134" src="https://github.com/user-attachments/assets/0ba6795a-4ff7-436e-a1a6-da6257ad94b4" />  
+
+
+
+
+
 
     
