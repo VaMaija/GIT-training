@@ -28,13 +28,17 @@ En saanut git pushia toimimaan. Tämä vaati uuden tokenin lisäämisen Githubin
 
 <img width="391" height="115" alt="Näyttökuva 2026-11-22 221134" src="https://github.com/user-attachments/assets/0ba6795a-4ff7-436e-a1a6-da6257ad94b4" />  
 
-Jokaisen commitin yhteydesäs ei kuitenkaan jaksa etsiä muistiinpanoista tokenia salasanaksi. Lisätään SSH-yhteys:  
 
-1. Lisätään Reposityyn screenshots -kansio: 
-    $ mkdir screenshots  
+
+1. Lisätään Reposityyn screenshots -kansio:   
+    $ mkdir screenshots    
     $ git add .
-    $ git push  
-     
+    $ git commit 
+    $ git push    
+
+Jokaisen commitin yhteydessä ei kuitenkaan jaksa etsiä muistiinpanoista tokenia salasanaksi. Lisätään SSH-yhteys:  
+
+
 
 
 
