@@ -36,7 +36,14 @@ En saanut git pushia toimimaan. Tämä vaati uuden tokenin lisäämisen Githubin
     $ git commit 
     $ git push    
 
-Jokaisen commitin yhteydessä ei kuitenkaan jaksa etsiä muistiinpanoista tokenia salasanaksi. Lisätään SSH-yhteys:  
+Jokaisen commitin yhteydessä ei kuitenkaan jaksa etsiä muistiinpanoista tokenia salasanaksi. Lisätään SSH-yhteys: 
+
+    maija@Virtuaali:~/GIT-training$ git remote set-url origin git@github.com:VaMaija/GIT-training.git
+    maija@Virtuaali:~/GIT-training$ git remote -v
+    origin	git@github.com:VaMaija/GIT-training.git (fetch)
+    origin	git@github.com:VaMaija/GIT-training.git (push)
+
+tämän jälkeen ei pitäisi enää kysyä githubin käyttäjänimeä tai tokenia.  
 
 
 
