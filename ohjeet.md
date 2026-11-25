@@ -46,7 +46,9 @@ Jokaisen commitin yhteydessä ei kuitenkaan jaksa etsiä muistiinpanoista tokeni
 tämän jälkeen ei pitäisi enää kysyä githubin käyttäjänimeä tai tokenia.  
 
 testataan lisäämällä tekstiä gitin kautta microa käyttämällä:  
-    micro ohjeet.md  //lisätäänä tämä teksti  
+    micro ohjeet.md  //lisätään tämä teksti (korjattu kirjoitusvirhe Githubin puolelta)  
+
+Testi onnistui, ei vaatinut tokenia. 
 
 
 
