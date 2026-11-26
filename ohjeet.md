@@ -50,6 +50,8 @@ testataan lisäämällä tekstiä gitin kautta microa käyttämällä:
 
 Testi onnistui, ei vaatinut tokenia. 
 
+Testasin tätä nyt myös Windowsin kautta WIN GUI-ohjelmalla ja onnistui päivittämään teksti. Vaikein osuus oli muistaa oikea tekstinkäsittelyohjelma. MUISTA NOTEPAD! 
+
 
 
 
